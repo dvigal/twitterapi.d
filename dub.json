@@ -1,0 +1,9 @@
+{
+	"name" : "TwitterClient",
+	"description" : "A minimal D bundle.",
+	"dependencies" : {
+	},
+	"targetType" : "executable",
+	"debugVersions" : ["TWITTER_CLIENT_DEBUG"],
+	"lflags" : ["-lcurl"]
+}
